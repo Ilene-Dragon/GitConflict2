@@ -4,8 +4,8 @@ using namespace std;
 
 int add(int a, int b);
 
-int main()
-{
+int main() {
+    cout << "Greeting..." << endl;
     cout << "Hello World!\n";
     return 0;
 }
